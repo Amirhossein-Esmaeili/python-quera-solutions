@@ -8,7 +8,7 @@ One script is dedicated to calculating an alternate sum by iterating through a g
 
 The scripts focus on basic concepts in Python: user input, String Operation, if-else statement, and loops. Each solution is implemented in an abstract way, resulting in a consolidated repository of modular python code.
 
-###  Alternating Sum
+##  Alternating Sum
 
 Problem: Write a program that calculates the rhythmic sequence value for time steps using two different parameters ($a$ and $b$) that alternate.
 
@@ -16,7 +16,7 @@ Description: This routine simulates wordless performance by incrementally steppi
 
 **Problem Link:** [View on Quera](https://quera.org/problemset/4065?tab=description)
 
-###  Date Parts
+##  Date Parts
 
 Problem: Program that extracts the birth year and month from a combined string of them, and prints them both independently.   
 
@@ -24,7 +24,7 @@ Description: The program can handle continuous string inputs similarly. Using Py
 
 **Problem Link:** [View on Quera](https://quera.org/problemset/615?tab=description)
 
-###  Number Comparison
+##  Number Comparison
 
 Problem: Write a 3-digit numbers two in reverse order comparison program (comparing ones, tens, and hundreds respectively).
 
@@ -32,14 +32,14 @@ Description: Using a precise right-to-left digit extraction technique, this solu
 
 **Problem Link:** [View on Quera](https://quera.org/problemset/3406?tab=description)
 
-### Perfect Number
+## Perfect Number
 Problem: Check if an integer n is a perfect number. Print YES/NO.
 
 Description: The solution uses an optimized iterative loop to go through factors up to n, find all proper divisors of the number, and efficiently sum these divisors without storing each of them individually. The final sum of divisors is compared to the original integer and the appropriate result is output. The script runs each mathematical test in order to guarantee its result is accurate, and creates a clean format for outputting the results.
 
 **Problem Link:** [View on Quera](https://quera.org/problemset/282?tab=description)
 
-### Theatre Square Seats
+## Theatre Square Seats
 Problem: A program to calculate the number of rows one must move-up/down and the seat direction from the reflected (mirrored) coordinates.
 
 Description: Using complex mathematics transformations and geometry, it maps the current coordinates to the actual physical locations. relative differences between reflected rows and mirrored columns, and accordingly it finds the coordinates of the starting point of the passenger and the target coordinates into the relative steps, row shift and final target coordinate. with all the grid layout rules of numbering, padding, and space mapping.
